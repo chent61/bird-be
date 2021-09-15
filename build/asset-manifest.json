@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bird-be/static/css/main.4cf33a4e.chunk.css",
+    "main.js": "/bird-be/static/js/main.18e8d4a0.chunk.js",
+    "main.js.map": "/bird-be/static/js/main.18e8d4a0.chunk.js.map",
+    "runtime-main.js": "/bird-be/static/js/runtime-main.60ff36ff.js",
+    "runtime-main.js.map": "/bird-be/static/js/runtime-main.60ff36ff.js.map",
+    "static/css/2.f2512455.chunk.css": "/bird-be/static/css/2.f2512455.chunk.css",
+    "static/js/2.3ff2e6ba.chunk.js": "/bird-be/static/js/2.3ff2e6ba.chunk.js",
+    "static/js/2.3ff2e6ba.chunk.js.map": "/bird-be/static/js/2.3ff2e6ba.chunk.js.map",
+    "index.html": "/bird-be/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/bird-be/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4cf33a4e.chunk.css.map": "/bird-be/static/css/main.4cf33a4e.chunk.css.map",
+    "static/js/2.3ff2e6ba.chunk.js.LICENSE.txt": "/bird-be/static/js/2.3ff2e6ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ff36ff.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.3ff2e6ba.chunk.js",
+    "static/css/main.4cf33a4e.chunk.css",
+    "static/js/main.18e8d4a0.chunk.js"
+  ]
+}
